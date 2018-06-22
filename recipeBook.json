@@ -1,6 +1,26 @@
 {
 	"recipe": [
 		{
+			"image": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/301be22f07471dfaaeef453df1efe5d625c60f6b/images/WU0306H_perfect-french-fries_s4x3.jpg.rend.hgtvcom.616.462.jpg",
+			"title": "Perfect French Fries",
+			"tag": [
+				"Side"
+			],
+			"ingredient": [
+				"5 pounds russet potatoes",
+				"Vegetable or peanut oil, for frying",
+				"Sea salt"
+			],
+			"step": [
+				"Peel and rinse the potatoes. Then cut them into sticks by cutting the potato in 4 or 5 vertical pieces, and then cutting each piece into sticks.",
+				"Place them in a large bowl and cover with cold water. Allow them to soak, 2 to 3 hours. (You can also stick them in the fridge and let them soak overnight.)",
+				"When you're ready to make the fries, drain off the water and lay the potatoes on 2 baking sheets lined with paper towels. Blot with paper towels to dry them.",
+				"Heat a few inches of oil in a heavy pot to 300 degrees F. In 3 or 4 batches, cook the potatoes until soft, 4 to 5 minutes per batch. They should not be brown at this point! You just want to start the cooking process. Remove each batch and drain on new/dry paper towels.",
+				"Once all the potatoes have been fried at 300 degrees F, turn up the heat until the oil reaches 400 degrees F. When the oil's hot, start frying the potatoes in batches again, cooking until the fries are golden and crisp. Remove the potatoes from the oil and drain on paper towels.",
+				"Sprinkle with sea salt and dive in!"
+			]
+		},
+		{
 			"image": "https://cdn.rawgit.com/jwass91/mavo-recipe-book/b9cb9888d23d74b6005fcec95210dc13431262f5/images/EA1F08_guacamole_s4x3.jpg.rend.hgtvcom.966.725.jpg",
 			"title": "Guacamole",
 			"tag": [
